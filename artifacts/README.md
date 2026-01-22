@@ -6,4 +6,6 @@
 
 - пример работы фильтра в папке `tesing`
 
+- ML System Design document
+
 Данные находятся на сервере и не добавлены сюда из-за большого размера, кроме [кодбука](https://huggingface.co/datasets/shalanova/codebook_embeddings).
